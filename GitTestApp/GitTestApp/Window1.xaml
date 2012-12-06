@@ -4,5 +4,6 @@
     Title="Window1" Height="300" Width="300">
     <Grid>
         <Button Height="23" Margin="108,93,94,0" Name="button1" VerticalAlignment="Top">Button</Button>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,33,48,0" Name="button2" VerticalAlignment="Top" Width="75">Button</Button>
     </Grid>
 </Window>
